@@ -1,0 +1,11 @@
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\obj\Debug\netcoreapp3.1\assignment_one.csprojAssemblyReference.cache
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\obj\Debug\netcoreapp3.1\assignment_one.AssemblyInfoInputs.cache
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\obj\Debug\netcoreapp3.1\assignment_one.AssemblyInfo.cs
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\bin\Debug\netcoreapp3.1\assignment_one.exe
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\bin\Debug\netcoreapp3.1\assignment_one.deps.json
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\bin\Debug\netcoreapp3.1\assignment_one.runtimeconfig.json
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\bin\Debug\netcoreapp3.1\assignment_one.runtimeconfig.dev.json
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\bin\Debug\netcoreapp3.1\assignment_one.dll
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\bin\Debug\netcoreapp3.1\assignment_one.pdb
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\obj\Debug\netcoreapp3.1\assignment_one.dll
+C:\Users\dricodp\Desktop\Prog Fund 2\PF2_Assignment_1\obj\Debug\netcoreapp3.1\assignment_one.pdb
